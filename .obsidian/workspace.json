@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "2a49970bd2c46f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "f36472587a49b91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07aa75a70c229d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "환영합니다!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "환영합니다!"
+            }
+          },
+          {
+            "id": "018e529366f47a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Summit 2025 1일차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Summit 2025 1일차"
+            }
+          },
+          {
+            "id": "29c8e1d6bc870c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Summit 2025 2일차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Summit 2025 2일차"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb48254d4832ba05",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6c19c586468647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e48884757c48e07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c7fc96b8f3421c48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "9b15278ce77ef282",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83743af3b2b55191",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b466d5699db148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3d753e749890f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS Summit 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "AWS Summit 2025 의 백링크"
+            }
+          },
+          {
+            "id": "5c7d8af988d5916f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS Summit 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AWS Summit 2025 의 나가는 링크"
+            }
+          },
+          {
+            "id": "dddd5346a0daf632",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "7f2c2d2f36692a63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS Summit 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AWS Summit 2025 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "send-to-ghost:Publish Ghost": false
+    }
+  },
+  "active": "29c8e1d6bc870c99",
+  "lastOpenFiles": [
+    "Pasted image 20250516012313.png",
+    "Pasted image 20250516012242.png",
+    "Pasted image 20250516012239.png",
+    "Pasted image 20250516012224.png",
+    "Pasted image 20250516012211.png",
+    "Pasted image 20250516012159.png",
+    "Pasted image 20250516012141.png",
+    "Pasted image 20250516012132.png",
+    "Pasted image 20250516012120.png",
+    "Pasted image 20250516012115.png",
+    "Pasted image 20250516012103.png",
+    "AWS Summit 2025 1일차.md",
+    "AWS Summit 2025 2일차.md",
+    "Temp.md",
+    "환영합니다!.md",
+    "무제",
+    "무제.canvas"
+  ]
+}
